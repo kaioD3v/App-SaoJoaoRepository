@@ -1,3 +1,6 @@
+Atenção leia os READSME e os Requerimentos para rodar o APP
+
+
 O São João de Caruaru é um aplicativo desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) dos alunos da Escola Técnica Ministro Fernando Lyra (ETEMFL). O projeto tem como objetivo valorizar, divulgar e preservar a cultura nordestina, com foco especial na maior festa popular do interior de Pernambuco e uma das maiores do mundo: o São João de Caruaru.
 
 Este aplicativo foi idealizado e produzido por uma equipe de estudantes do curso técnico, combinando conhecimentos de programação, design, banco de dados e pesquisa cultural. Ele representa não apenas um produto digital, mas também um instrumento de aprendizagem e de valorização da identidade regional.
